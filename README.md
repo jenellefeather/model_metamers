@@ -8,6 +8,11 @@ The provided code includes demonstrations of generating "Model Metamers" from ex
 ![Example audio and image model metamers. Metamers matched to late layers are unrecognizable.](assets/ExampleModelMetamers_github.png)
 ![Human behavior results for model metamer recognition.](assets/four_network_human_behavior_github.png)
 
+## Additional Links
+Poster: http://mcdermottlab.mit.edu/jfeather/model_metamers/neurips2019_metamers_poster.pdf
+
+Audio Demos: http://mcdermottlab.mit.edu/jfeather/model_metamers/audio_metamers.html
+
 ## Jupyter Notebook examples
 
 The metamer generation is outlined in two jupyter notebooks: 
