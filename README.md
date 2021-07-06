@@ -69,7 +69,7 @@ Untar the above file (`tar -xvf metamers_audio_models_network_files.tar.gz`).
 
 This file should contain the following: 
 
-(1) Network configuration files used by the `build_*.py` scripts (`word_network_aliased.pckl`, `word_reduced_aliasing_null_dist_spearman_r.pckl`)
+(1) Network configuration files used by the `build_*.py` scripts (`word_network_aliased.pckl`, `word_network_reduced_aliasing.pckl`)
 
 (2) Saved tensorflow checkpoints for both models
 
