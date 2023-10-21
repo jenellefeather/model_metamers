@@ -1,3 +1,9 @@
+## 🚨🚨🚨Update (2023)🚨🚨🚨
+We published a journal paper building significantly on this work: <br> ["Model metamers reveal divergent invariances between biological and artificial neural networks." Feather et al. 2023. Nature Neuroscience 2023.](https://www.nature.com/articles/s41593-023-01442-0)
+
+There is an associated repository to generate model metamers in PyTorch here: <br>
+https://github.com/jenellefeather/model_metamers_pytorch
+
 # Metamers of neural networks reveal divergence from human perceptual systems
 This repository includes code, data, and demos for the paper ["Metamers of neural networks reveal divergence from human perceptual systems."](https://papers.nips.cc/paper/9198-metamers-of-neural-networks-reveal-divergence-from-human-perceptual-systems)
 
