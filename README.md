@@ -4,6 +4,8 @@ We published a journal paper building significantly on this work: <br> ["Model m
 There is an associated repository to generate model metamers in PyTorch here: <br>
 https://github.com/jenellefeather/model_metamers_pytorch
 
+This repository is no longer actively maintained. Please use the above repository instead.  
+
 # Metamers of neural networks reveal divergence from human perceptual systems
 This repository includes code, data, and demos for the paper ["Metamers of neural networks reveal divergence from human perceptual systems."](https://papers.nips.cc/paper/9198-metamers-of-neural-networks-reveal-divergence-from-human-perceptual-systems)
 
